@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+
+# Logs y archivos de depuracion
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Informes de cobertura de Jest
+coverage/
+
+# Variables de entorno locales
+.env
+.env.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

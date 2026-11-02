@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Genera un snapshot del componente (TodoList) 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      Tarea 1
+    </li>
+    <li>
+      Tarea 2
+    </li>
+  </ul>
+</DocumentFragment>
+`;
